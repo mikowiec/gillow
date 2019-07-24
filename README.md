@@ -1,2 +1,3 @@
 # gillow
-Golang Imaging Library
+Golang Imaging Library, influenced by Pillow Python Imaging Library
+
